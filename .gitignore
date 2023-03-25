@@ -4,3 +4,4 @@
 /vprofilekey
 /.terraform.lock.hcl
 /.terraform/
+/.terraform/*
