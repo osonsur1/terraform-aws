@@ -1,3 +1,6 @@
-vprofilekey*
-/terraform
-/.terraform
+/.idea/
+/.
+/vprofilekey.pub
+/vprofilekey
+/.terraform.lock.hcl
+/.terraform/
